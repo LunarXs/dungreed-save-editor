@@ -1,7 +1,7 @@
 //
 // Dungreed save decryption and encryption program
 // By LunarXs
-// Find it on: 
+// Find it on: https://github.com/LunarXs/dungreed-save-editor
 
 using System;
 using System.Text;
